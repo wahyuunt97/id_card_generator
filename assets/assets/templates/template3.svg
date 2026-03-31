@@ -1,0 +1,8 @@
+<svg width="648" height="900" viewBox="0 0 648 900" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="648" height="900" fill="white"/>
+<rect id="Placeholder_Photo" x="176" y="202" width="341" height="386" fill="#D9D9D9"/>
+<rect id="Placeholder_Name" x="124" y="650" width="400" height="50" fill="none"/>
+<rect id="Placeholder_Posisi" x="174" y="720" width="300" height="40" fill="none"/>
+<path d="M225.5 544C225.5 540.41 222.59 537.5 219 537.5L160.5 537.5C156.91 537.5 154 540.41 154 544C154 547.59 156.91 550.5 160.5 550.5H212.5V602.5C212.5 606.09 215.41 609 219 609C222.59 609 225.5 606.09 225.5 602.5L225.5 544ZM132 631L136.596 635.596L223.596 548.596L219 544L214.404 539.404L127.404 626.404L132 631Z" fill="black"/>
+<path d="M618 840L643.981 885H592.019L618 840Z" fill="#D9D9D9"/>
+</svg>
